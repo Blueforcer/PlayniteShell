@@ -11,8 +11,8 @@ Windows will boot normaly, but instead of loading the desktop (explorer.exe) aft
 https://www.minitool.com/data-recovery/windows-11-auto-login.html  
 **2. Hide windows taskbar**  
 https://www.windowscentral.com/how-enable-taskbar-auto-hide-windows-11  
-**3. Disabling User Account Control(OPTIONAL)**  
-Turning this off does pose a security risk. This prevents constant pop-ups when installing software, or when launching any programs that have to "Run as Administrator". Disabling this gives a more seamless experience.  
+**3. Disabling User Account Control**  
+Turning this off does pose a security risk. This prevents constant pop-ups when installing software, or when launching any programs that have to "Run as Administrator" like the desktop.bat . Disabling this gives a more seamless experience. 
 Open Control Panel > User Accounts > User Accounts > Change User Account Control Settings  
 Change the slider all the way down to the bottom to Never Notify  
 Click OK and reboot to take effect  
