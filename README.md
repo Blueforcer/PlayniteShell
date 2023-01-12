@@ -5,7 +5,7 @@ Here is the highly requested tutorial for my Windows setup on SteamDeck
 this Tutorial is for Windows 11, but should also work for Win10  
 
 **What happen here?**  
-Windows will boot normaly, but instead of loading the desktop (explorer.exe) after login, it will start the PlayniteShell.exe wich is the compiled version of the PlayniteShell.bat. This script simply load the VLC player in fullscreen and plays the bootanimation. While it plays it loads Playnite in the background and start the Desktop.bat. (here we need to use the StartDesktop.lnk shortcut to start it as administrator, we need admin rights to write into the registry to change the shell from explorer to PlayniteShell. And thats it!  
+Windows will boot normaly, but instead of loading the desktop (explorer.exe) after login, it will start the PlayniteShell.exe wich is the compiled version of the PlayniteShell.bat. This script simply load the VLC player in fullscreen and plays the bootanimation. While it plays it loads Playnite in the background and start the Desktop.bat wich starts the windows desktop. (here we need to use the StartDesktop.lnk shortcut to start it as administrator, we need admin rights to write into the registry to change the shell from explorer to PlayniteShell. And thats it!  
   
 **1. Disable login**  
 https://www.minitool.com/data-recovery/windows-11-auto-login.html  
