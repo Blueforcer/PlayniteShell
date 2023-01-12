@@ -20,13 +20,11 @@ Click OK and reboot to take effect
 https://www.videolan.org/vlc/  
 https://playnite.link/  
 **5. Download Scripts**  
-download this repo and copy it to your documents folder, so all data is located in e.g C:\Users\Micro\Documents\PlayniteShell  
-**6. Edit Desktop.bat:**  
- In the penultimate line: replace C:\Users\Micro\Documents\PlayniteShell\PlayniteShell.exe with your path  
-**7. Replace Shell**  
+download this repo and copy it to your documents folder. the folder needs the name "PlayniteShell", so all data is located in e.g C:\Users\Micro\Documents\PlayniteShell  
+**6. Replace Shell**  
 Use BatToExeConverterX64 to convert the PlayniteShell.bat to an exe. Check the flag for the invisible program, then simply convert it into an exe. It should be all very simple and self-explainatory.  
 Note: Windows defender will block this exe because of an detected Script/Phonzy.A!ml. This is because the exe will start other apps, just allow it.  
-**8. activate everything**  
+**7. activate everything**  
 Doubleclick Desktop.bat and reboot your Steamdeck.
   
 You can use any video as "boot" animation wich is a mp4.  
