@@ -1,8 +1,8 @@
 # PlayniteShell
 
-Here is the highly requested tutorial for my Windows setup on SteamDeck
-(https://www.facebook.com/groups/1857754067746453/posts/2092432410945283)
-this Tutorial is for Windows 11, but should also work for Win10
+Here is the highly requested tutorial for my Windows setup on SteamDeck  
+(https://www.facebook.com/groups/1857754067746453/posts/2092432410945283)   
+this Tutorial is for Windows 11, but should also work for Win10  
 
 **1. Disable login**  
 https://www.minitool.com/data-recovery/windows-11-auto-login.html  
